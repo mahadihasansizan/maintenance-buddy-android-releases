@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
-  "versionCode": 7,
-  "downloadUrl": "https://github.com/mahadihasansizan/maintenance-buddy-android-releases/releases/download/v1.2.3/maintenance-buddy-android.apk",
-  "releaseUrl": "https://github.com/mahadihasansizan/maintenance-buddy-android-releases/releases/tag/v1.2.3",
+  "version": "1.2.4",
+  "versionCode": 8,
+  "downloadUrl": "https://github.com/mahadihasansizan/maintenance-buddy-android-releases/releases/download/v1.2.4/maintenance-buddy-android.apk",
+  "releaseUrl": "https://github.com/mahadihasansizan/maintenance-buddy-android-releases/releases/tag/v1.2.4",
   "notes": "Latest Maintenance Buddy improvements and fixes.",
   "required": false
 }
